@@ -127,7 +127,7 @@ TabletTools being used to help navigation in blender running on linux through ta
 ## Roadmap
 
 - [x] Toggle Alt
-- [ ] Toggle Shift
+- [x] Toggle Shift
 - [ ] Possibly more customizability yet
 
 See the [open issues](https://github.com/0xStabby/TabletTools/issues) for a full list of proposed features (and known issues).
