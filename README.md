@@ -88,7 +88,7 @@ To get a local copy up and running follow these simple example steps.
 This is an example of how to list things you need to use the software and how to install them.
 * Install dependencies through your package manager
   ```sh
-  sudo apt install xdotools gtk4 gcc
+  sudo apt install xdotool gtk4 gcc
   ```
 
 ### Installation
@@ -100,7 +100,7 @@ This is an example of how to list things you need to use the software and how to
    ```
 2. Build Tablet Tools
    ```sh
-   gcc $(pkg-config --cflags gtk4) -o tablet-tools tablet-tools.c $(pkg-config --libs gtk4) && ./tablet-tools
+   gcc $(pkg-config --cflags gtk4) -o tablet-tools tablet-tools.c $(pkg-config --libs gtk4)
 
    ```
 3. Run 
