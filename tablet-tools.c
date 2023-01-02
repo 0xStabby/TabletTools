@@ -73,7 +73,7 @@ activate (GtkApplication *app,
 
   window = gtk_application_window_new (app);
   gtk_window_set_title (GTK_WINDOW (window), "TabletTools");
-  gtk_window_set_default_size (GTK_WINDOW (window), 200, 860);
+  gtk_window_set_default_size (GTK_WINDOW (window), 200, 970);
 
   grid = gtk_grid_new();
   gtk_grid_set_column_spacing(GTK_GRID(grid),10);
