@@ -63,7 +63,7 @@
 
 Customizable Toolbar for hotkeys. Useful for using linux applications through a tablet.
 
-_Currently only one button(Alt)._
+_Currently 2 buttons(Alt, and Shift)._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -198,7 +198,6 @@ Project Link: [https://github.com/0xStabby/TabletTools](https://github.com/0xSta
 [license-shield]: https://img.shields.io/github/license/0xStabby/TabletTools.svg?style=for-the-badge
 [license-url]: https://github.com/0xStabby/TabletTools/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
-[blender-screenshot]: images/blender-screenshot.jpeg
 [blender-gif]: images/TabletTools-with-Blender.gif
 [c-url]: https://www.cprogramming.com/
 [c]: https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=
