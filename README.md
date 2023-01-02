@@ -115,7 +115,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-[![Tablet Tools with Blender Screen Shot][blender-screenshot]](https://github.com/0xStabby/TabletTools)
+[![Tablet Tools with Blender Screen Shot][blender-gif]](https://github.com/0xStabby/TabletTools)
 
 TabletTools being used to help navigation in blender running on linux through tablet
 
@@ -199,6 +199,7 @@ Project Link: [https://github.com/0xStabby/TabletTools](https://github.com/0xSta
 [license-url]: https://github.com/0xStabby/TabletTools/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
 [blender-screenshot]: images/blender-screenshot.jpeg
+[blender-gif]: images/TabletTools-with-Blender.gif
 [c-url]: https://www.cprogramming.com/
 [c]: https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=
 [gtk-url]: https://www.gtk.org/
