@@ -63,7 +63,7 @@
 
 Customizable Toolbar for hotkeys. Useful for using linux applications through a tablet.
 
-_Currently 2 buttons(Alt, and Shift)._
+_Currently 4 buttons(Toggle Alt, Toggle Shift, Right Click, Undo)._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
