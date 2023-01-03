@@ -203,7 +203,7 @@ Project Link: [https://github.com/0xStabby/TabletTools](https://github.com/0xSta
 [issues-url]: https://github.com/0xStabby/TabletTools/issues
 [license-shield]: https://img.shields.io/github/license/0xStabby/TabletTools.svg?style=for-the-badge
 [license-url]: https://github.com/0xStabby/TabletTools/blob/master/LICENSE.txt
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/TabletTools-with-Blender.jpeg
 [blender-gif]: images/TabletTools-with-Blender.gif
 [c-url]: https://www.cprogramming.com/
 [c]: https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=
