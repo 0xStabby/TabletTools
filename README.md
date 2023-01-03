@@ -93,6 +93,20 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
+#### From Binary
+1. Download tablet-tools from [Releases](https://github.com/0xStabby/TabletTools/releases)
+
+2. Allow execution
+   ```sh
+   chmod +x ./tablet-tools
+   ```
+
+3. Run
+   ```sh
+   ./tablet-tools
+   ```
+
+#### From Source
 1. Clone the repo
    ```sh
    git clone https://github.com/0xStabby/TabletTools.git
