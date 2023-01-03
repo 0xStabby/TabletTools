@@ -128,6 +128,11 @@ TabletTools being used to help navigation in blender running on linux through ta
 
 - [x] Toggle Alt
 - [x] Toggle Shift
+- [x] Right Click
+- [ ] Copy
+- [ ] Paste
+- [x] Undo
+- [ ] Redo
 - [ ] Possibly more customizability yet
 
 See the [open issues](https://github.com/0xStabby/TabletTools/issues) for a full list of proposed features (and known issues).
