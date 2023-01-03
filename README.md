@@ -4,6 +4,9 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+[![Releases][releases-shield]][releases-url]
+[![Downloads][downloads-shield]][downloads-url]
+[![Release Date][release-date-shield]][release-date-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -207,6 +210,12 @@ Project Link: [https://github.com/0xStabby/TabletTools](https://github.com/0xSta
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[releases-shield]: https://img.shields.io/github/v/release/0xStabby/TabletTools?style=for-the-badge
+[releases-url]: https://github.com/0xStabby/TabletTools/releases
+[downloads-shield]: https://img.shields.io/github/downloads/0xStabby/TabletTools/total?style=for-the-badge
+[downloads-url]: https://github.com/0xStabby/TabletTools/releases
+[release-date-shield]: https://img.shields.io/github/release-date/0xStabby/TabletTools?style=for-the-badge
+[release-date-url]: https://github.com/0xStabby/TabletTools/releases
 [contributors-shield]: https://img.shields.io/github/contributors/0xStabby/TabletTools.svg?style=for-the-badge
 [contributors-url]: https://github.com/0xStabby/TabletTools/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/0xStabby/TabletTools.svg?style=for-the-badge
